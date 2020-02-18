@@ -1,0 +1,22 @@
+{
+  "name": "watson-tone-analyzer",
+  "version": "1.0.0",
+  "description": "Exploring AI with Watson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leaf-junkie/watson-tone-analyzer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leaf-junkie/watson-tone-analyzer/issues"
+  },
+  "homepage": "https://github.com/leaf-junkie/watson-tone-analyzer#readme",
+  "dependencies": {
+    "bulma": "^0.8.0"
+  }
+}
